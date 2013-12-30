@@ -80,7 +80,7 @@
 
     <!-- UpdateOTA update checker -->
     <string name="xml_url">http://updatecenter.uni.me/ota.xml</string>
-    <string name="xml_url_kitkat">http://updatecenter.uni.me/ota_kk.xml</string>
+    <string name="xml_url_kitkat">http://updatecenter.uni.me/AOSPLUS.xml</string>
     <string name="notification_message">ROM update available</string>
 
     <!-- UpdateOTA About -->
