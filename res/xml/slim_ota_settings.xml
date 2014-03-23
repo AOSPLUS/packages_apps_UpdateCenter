@@ -21,6 +21,12 @@
     xmlns:android="http://schemas.android.com/apk/res/android"
     android:title="@string/settings_title">
 
+    <PreferenceScreen
+        android:key="lcd_density"
+        android:title="@string/cfx_lcd_density_wizard_title"
+        android:summary="@string/cfx_lcd_density_wizard_summary"
+        android:fragment="com.slim.DensityChanger" />
+
     <ListPreference
         android:key="update_interval"
         android:dialogTitle="@string/update_interval_title"
